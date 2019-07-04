@@ -10,3 +10,7 @@ Mostly it's Work to check the presence of a person in the file or not using imag
 NOTE: If you use any of the models, please do not forget to give proper credit to those providing the training dataset as well.
 ## Inspiration
 This repository is heavily inspired by David Sandberg (https://github.com/davidsandberg) Who made the Facenet Model. and Arun Mandal(https://github.com/arunmandal53) of making the code usability for me.
+
+## Running Program
+#### pip install requirement.txt
+#### python Check_Existance.py --img1=Katrina1.jpg
